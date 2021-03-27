@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikolay-fesenko
+- 👋 Hi, I’m nikolay-fesenko
 - 👀 I’m interested in Java programming.
 - 🌱 I’m currently learning the core of Java.
 
